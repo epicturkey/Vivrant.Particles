@@ -24,12 +24,21 @@ http://vivrant-weathertests.bitballoon.com/
     `xmlns:vp="clr-namespace:Vivrant.Particles;assembly=Vivrant.Particles"`
  - Add the the following to your window or Control (this can replace any existing Canvas or Grid objects)
 `<Canvas HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+
 	<vp:WeatherPanel Name="RainPanel">
+	
 		<vp:WeatherPanel.ParticleGenerator>
+		
 			<vp:SnowGenerator />
+			
 		</vp:WeatherPanel.ParticleGenerator>
+		
 	</vp:WeatherPanel>
+	
 	<StackPanel>
+	
 		<!-- Other controls to underlay the Particle Animations -->
+		
 	</StackPanel>
+	
 </Canvas>`
