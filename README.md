@@ -1,6 +1,9 @@
 # Vivrant.Particles
 Particles and Weather for CSHTML5 (http://cshtml5.com/)
 
+# Demo:
+http://vivrant-weathertests.bitballoon.com/
+
 # Milestones:
 
 **8-28-2017: ALPHA 0.1**
