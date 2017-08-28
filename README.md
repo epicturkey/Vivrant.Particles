@@ -9,3 +9,6 @@ Particles and Weather for CSHTML5 (http://cshtml5.com/)
     - Allow multiple instances of Particle Frames on same page
     - CPU\Lifecycle Pause: When browser window\tab is not focused, animations will slow, and eventually pause. This uses JS 'document.hasFocus()'
     - CPU\Lifecycle Resume: Once browser window\tab regains focus, animations will begin again. This uses JS 'document.hasFocus()'
+
+# Limitations:
+    Does not work in Simulator! I don't know why.
