@@ -19,10 +19,15 @@ http://vivrant-weathertests.bitballoon.com/
 # Usage:
 
  - Add a reference to [b]Vivrant.Particles.dll[/b]
+ 
  - Create a new XAML window or Control
+ 
  - Add a XAML Namespace: 
+ 
     `xmlns:vp="clr-namespace:Vivrant.Particles;assembly=Vivrant.Particles"`
+    
  - Add the the following to your window or Control (this can replace any existing Canvas or Grid objects)
+ 
 `<Canvas HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
 	<vp:WeatherPanel Name="RainPanel">
 		<vp:WeatherPanel.ParticleGenerator>
