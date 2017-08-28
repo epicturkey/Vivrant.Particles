@@ -18,7 +18,7 @@ http://vivrant-weathertests.bitballoon.com/
 
 # Usage:
 
- - Add a reference to [b]Vivrant.Particles.dll[/b]
+ - Add a reference to *Vivrant.Particles.dll*
  
  - Create a new XAML window or Control
  
