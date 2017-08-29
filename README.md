@@ -29,7 +29,7 @@ http://vivrant-weathertests.bitballoon.com/
  - Add the the following to your window or Control (this can replace any existing Canvas or Grid objects)
  
 `<Canvas HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-	<vp:WeatherPanel Name="RainPanel">
+	<vp:WeatherPanel>
 		<vp:WeatherPanel.ParticleGenerator>
 			<vp:SnowGenerator />
 		</vp:WeatherPanel.ParticleGenerator>
